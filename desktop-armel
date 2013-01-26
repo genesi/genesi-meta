@@ -90,7 +90,9 @@ x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
 xkb-data
-xorg-xserver-video-fbdev
+xserver-xorg-video-fbdev
+xserver-xorg-input-wacom
+xserver-xorg-input-evdev
 xscreensaver-data
 xterm
 yelp
