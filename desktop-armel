@@ -90,6 +90,7 @@ x-ttcidfont-conf
 xdg-user-dirs
 xdg-user-dirs-gtk
 xkb-data
+xorg-xserver-video-fbdev
 xscreensaver-data
 xterm
 yelp
