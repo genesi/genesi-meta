@@ -1,0 +1,10 @@
+apt-transport-https
+bash-completion
+command-not-found
+manpages
+mlocate
+ntfs-3g
+openssh-client
+plymouth
+uuid-runtime
+links

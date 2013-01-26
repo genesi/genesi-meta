@@ -1,0 +1,46 @@
+Source: genesi-meta
+Section: metapackages
+Priority: optional
+Maintainer: William Schaub <wschaub@genesi-tech.com>
+Standards-Version: 3.8.4
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+
+Package: genesi-minimal
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Minimal core 
+ This package depends on all of the packages in the minimal system,
+ that is a functional command-line system with the following capabilities:
+ .
+  - Boot
+  - Detect hardware
+  - Connect to a network
+  - Install packages
+  - Perform basic diagnostics
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: genesi-standard
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: The standard system
+ This package depends on all of the packages in the standard system.
+ This set of packages provides a comfortable command-line Unix-like
+ environment.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: genesi-desktop
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: The desktop system
+ This package depends on all of the packages in the Ubuntu desktop system
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
