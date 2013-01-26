@@ -17,7 +17,6 @@ example-content
 firefox
 firefox-gnome-support
 foo2zjs
-gbrainy
 gcc
 gdm-guest-session
 gnome-accessibility-themes
@@ -66,7 +65,6 @@ pulseaudio-module-x11
 pxljr
 quadrapassel
 rhythmbox
-rhythmbox-ubuntuone-music-store
 shotwell
 simple-scan
 speech-dispatcher
@@ -88,7 +86,6 @@ ttf-unfonts-core
 ttf-wqy-microhei
 ubufox
 ubuntu-docs
-ubuntuone-client-gnome
 vinagre
 vino
 xcursor-themes
