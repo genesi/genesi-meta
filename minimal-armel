@@ -21,7 +21,7 @@ module-init-tools
 net-tools
 netbase
 ntpdate
-nano
+vim-tiny
 passwd
 procps
 python
