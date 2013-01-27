@@ -38,7 +38,6 @@ gnome-system-monitor
 gnome-system-tools
 gnome-terminal
 gnome-themes-selected
-gnome-themes-ubuntu
 gnome-utils
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
@@ -78,9 +77,6 @@ synaptic
 system-config-printer-gnome
 ttf-dejavu-core
 ttf-freefont
-ubuntu-artwork
-ubuntu-extras-keyring
-ubuntu-sounds
 unzip
 update-manager
 update-notifier

@@ -57,7 +57,8 @@ network-manager-pptp-gnome
 onboard
 pcmciautils
 pitivi
-plymouth-theme-ubuntu-logo
+genesi-plymouth-theme-logo
+genesi-wallpaper
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
 pulseaudio-module-gconf
