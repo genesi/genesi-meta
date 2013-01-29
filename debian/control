@@ -39,7 +39,7 @@ Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: The desktop system
- This package depends on all of the packages in the Ubuntu desktop system
+ This package depends on all of the packages in the desktop system.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
