@@ -48,7 +48,6 @@ gucharmap
 indicator-applet-session
 inputattach
 language-selector
-lftp
 libgd2-xpm
 libgnome2-perl
 libpam-ck-connector
@@ -72,7 +71,6 @@ smbclient
 software-center
 software-properties-gtk
 ssh-askpass-gnome
-synaptic
 system-config-printer-gnome
 ttf-dejavu-core
 ttf-freefont
