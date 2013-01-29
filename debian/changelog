@@ -1,3 +1,14 @@
+genesi-meta (1.209) maverick; urgency=low
+
+  * partial for ESS-48: remove lftp and synaptic from desktop-armel
+  * ESS-47: remove launchpad-integration from desktop-armel
+  * ESS-46: remove apmd from desktop-armel
+  * Nitpick: move plymouth theme into standard-recommends-armel with plymouth
+  * ESS-26: enforce nano as the default editor for minimal-armel
+  * ESS-34: remove gnome/gtk games for a leaner default system
+
+ -- Matt Sealey <matt@genesi-usa.com>  Mon, 28 Jan 2013 21:54:31 +0600
+
 genesi-meta (1.208) maverick; urgency=low
 
   * Modified to comply with Jira ticket ESS-25
