@@ -18,10 +18,10 @@ lsb-release
 makedev
 mawk
 module-init-tools
+nano
 net-tools
 netbase
 ntpdate
-vim-tiny
 passwd
 procps
 python
