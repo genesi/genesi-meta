@@ -1,4 +1,3 @@
-aisleriot
 avahi-autoipd
 avahi-daemon
 bluez
@@ -26,12 +25,9 @@ gnome-bluetooth
 gnome-codec-install
 gnome-disk-utility
 gnome-mag
-gnome-mahjongg
 gnome-orca
 gnome-screensaver
-gnome-sudoku
 gnome-user-guide
-gnomine
 gvfs-fuse
 hplip
 ibus
