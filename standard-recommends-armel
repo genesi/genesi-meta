@@ -1,6 +1,7 @@
 apt-transport-https
 bash-completion
 command-not-found
+genesi-plymouth-theme-logo
 manpages
 mlocate
 ntfs-3g
