@@ -11,9 +11,7 @@ computer-janitor-gtk
 empathy
 espeak
 thunderbird
-thunderbird-gdata-provider
-thunderbird-ligntning
-thunderbird-calendar-timezones
+thunderbird-gnome-support
 example-content
 firefox
 firefox-gnome-support
