@@ -1,3 +1,9 @@
+genesi-meta (1.212) maverick; urgency=low
+
+  * ESS-35: remove kerneloops-daemon since it was depending on apport
+
+ -- Matt Sealey <matt@genesi-usa.com>  Fri, 01 Feb 2013 15:22:32 +0600
+
 genesi-meta (1.211) maverick; urgency=low
 
   * ESS-68: remove example-content
@@ -5,7 +11,7 @@ genesi-meta (1.211) maverick; urgency=low
     they're properly tested
   * ESS-53: replace camorama with cheese for now
 
- -- Matt Sealey <matt@genesi-usa.com>  Fri, 02 Feb 2013 15:14:28 +0600
+ -- Matt Sealey <matt@genesi-usa.com>  Fri, 01 Feb 2013 15:14:28 +0600
 
 genesi-meta (1.210) maverick; urgency=low
 
