@@ -32,7 +32,6 @@ ibus-gtk
 ibus-table
 im-switch
 indicator-messages
-kerneloops-daemon
 laptop-detect
 libgail-gnome-module
 libnss-mdns
