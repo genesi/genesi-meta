@@ -1,3 +1,10 @@
+genesi-meta (1.213) maverick; urgency=low
+
+  * ESS-33: remove a couple more CJK fonts from the default build
+  * ESS-48: remove vino from desktop-recommends
+
+ -- Matt Sealey <matt@genesi-usa.com>  Fri, 01 Feb 2013 15:40:55 +0600
+
 genesi-meta (1.212) maverick; urgency=low
 
   * ESS-35: remove kerneloops-daemon since it was depending on apport
