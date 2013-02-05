@@ -1,3 +1,9 @@
+genesi-meta (1.214) maverick; urgency=low
+
+  * ESS-25: create genesi-imx5-extras package
+
+ -- Matt Sealey <matt@genesi-usa.com>  Tue, 05 Feb 2013 15:44:03 +0600
+
 genesi-meta (1.213) maverick; urgency=low
 
   * ESS-33: remove a couple more CJK fonts from the default build
