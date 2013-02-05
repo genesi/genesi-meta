@@ -48,4 +48,9 @@ Package: genesi-imx5-extras
 Architecture: any
 Depends: ${misc:Depends}, imx-boot-scripts, xserver-xorg-video-imx, libgles2-imx, libegl1-imx, gstreamer0.10-fsl-mm-plugins
 Recommends: libopenvg1, libgles1-imx
-Description: Genesi extras for i.MX5-based systems (Efika MX)
+Description: Genesi extras for i.MX5-based systems (Efika MX).
+
+Package: genesi-office
+Architecture: any
+Depends: ${misc:Depends}, openoffice.org
+Description: Genesi recommended office suite for the desktop system.
