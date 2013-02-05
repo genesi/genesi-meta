@@ -28,6 +28,7 @@ python
 rsyslog
 sudo
 tzdata
+uboot-mkimage
 ubuntu-keyring
 udev
 upstart
