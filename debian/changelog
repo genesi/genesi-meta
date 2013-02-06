@@ -1,3 +1,9 @@
+genesi-meta (1.216) maverick; urgency=low
+
+  * ESS-25: libopenvg1 -> libopenvg1-imx to stop pulling in omap stuff
+
+ -- Matt Sealey <matt@genesi-usa.com>  Wed, 06 Feb 2013 09:27:24 +0600
+
 genesi-meta (1.215) maverick; urgency=low
 
   * ESS-69/ESS-52: create genesi-office package
