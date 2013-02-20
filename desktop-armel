@@ -45,15 +45,12 @@ gstreamer0.10-pulseaudio
 gtk2-engines
 gtk2-engines-pixbuf
 gucharmap
-indicator-applet-session
 inputattach
 language-selector
 libgd2-xpm
 libgnome2-perl
 libpam-ck-connector
 libsasl2-modules
-libsdl1.2debian
-libsdl1.2debian-pulseaudio
 libxp6
 metacity
 nautilus

@@ -31,7 +31,6 @@ ibus
 ibus-gtk
 ibus-table
 im-switch
-indicator-messages
 laptop-detect
 libgail-gnome-module
 libnss-mdns
