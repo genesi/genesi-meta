@@ -15,7 +15,6 @@ thunderbird-gnome-support
 firefox
 firefox-gnome-support
 foo2zjs
-gcc
 gdm-guest-session
 gnome-bluetooth
 gnome-codec-install
@@ -35,7 +34,6 @@ libgail-gnome-module
 libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk
-make
 min12xxw
 mousetweaks
 nautilus-share

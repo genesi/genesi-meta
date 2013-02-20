@@ -1,3 +1,9 @@
+genesi-meta (1.225) maverick; urgency=low
+
+  * Don't install gcc/make as desktop recommends
+
+ -- Matt Sealey <matt@genesi-usa.com>  Wed, 20 Feb 2013 11:46:31 -0600
+
 genesi-meta (1.224) maverick; urgency=low
 
   * Remove screensaver-default-images
