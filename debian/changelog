@@ -1,3 +1,9 @@
+genesi-meta (1.220) maverick; urgency=low
+
+  * Remove xcursor-themes since gnome themes will pull in dmz cursors
+
+ -- Matt Sealey <matt@genesi-usa.com>  Mon, 18 Feb 2013 13:17:43 -0600
+
 genesi-meta (1.219) maverick; urgency=low
 
   * Remove indicator packages since we don't use indicators in panels
