@@ -1,15 +1,27 @@
+genesi-meta (1.222) maverick; urgency=low
+
+  * Remove pulseaudio-esound-compat
+
+ -- Matt Sealey <matt@genesi-usa.com>  Mon, 20 Feb 2013 11:39:51 -0600
+
+genesi-meta (1.221) maverick; urgency=low
+
+  * Remove xcursor-themes since gnome themes will pull in dmz cursors
+
+ -- Matt Sealey <matt@genesi-usa.com>  Mon, 20 Feb 2013 11:39:51 -0600
+
 genesi-meta (1.220) maverick; urgency=low
 
   * Remove xcursor-themes since gnome themes will pull in dmz cursors
 
- -- Matt Sealey <matt@genesi-usa.com>  Mon, 18 Feb 2013 13:17:43 -0600
+ -- Matt Sealey <matt@genesi-usa.com>  Wed, 20 Feb 2013 11:37:10 -0600
 
 genesi-meta (1.219) maverick; urgency=low
 
   * Remove indicator packages since we don't use indicators in panels
   * Remove SDL from desktop since nothing is depending on it right now
 
- -- Matt Sealey <matt@genesi-usa.com>  Mon, 18 Feb 2013 13:17:43 -0600
+ -- Matt Sealey <matt@genesi-usa.com>  Wed, 20 Feb 2013 11:35:20 -0600
 
 genesi-meta (1.218) maverick; urgency=low
 

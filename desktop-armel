@@ -59,7 +59,6 @@ notify-osd
 openprinting-ppds
 pnm2ppa
 pulseaudio
-pulseaudio-esound-compat
 rarian-compat
 screen
 screensaver-default-images
