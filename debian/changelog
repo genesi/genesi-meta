@@ -1,3 +1,9 @@
+genesi-meta (1.224) maverick; urgency=low
+
+  * Remove screensaver-default-images
+
+ -- Matt Sealey <matt@genesi-usa.com>  Wed, 20 Feb 2013 11:44:19 -0600
+
 genesi-meta (1.223) maverick; urgency=low
 
   * Remove gnome-accessibility-themes for now
