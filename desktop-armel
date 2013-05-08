@@ -42,8 +42,7 @@ gnome-utils
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
-gtk2-engines
-gtk2-engines-pixbuf
+gtk2-engines-clearlooks
 gucharmap
 inputattach
 language-selector
