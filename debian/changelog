@@ -1,3 +1,9 @@
+genesi-meta (1.228) maverick; urgency=low
+
+  * Bump for docky branch
+
+ -- Ahmed Ammar <aamamr@genesi-usa.com>  Mon, 03 Jun 2013 18:46:31 +0200
+
 genesi-meta (1.226) maverick; urgency=low
 
   * ESS-154: add gstreamer-0.10-ffmpeg
