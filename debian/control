@@ -46,7 +46,7 @@ Description: The desktop system
 
 Package: genesi-imx5-extras
 Architecture: any
-Depends: ${misc:Depends}, imx-boot-scripts, xserver-xorg-video-imx, libgles2-imx, libegl1-imx, gstreamer0.10-fsl-mm-plugins, gstreamer0.10-ffmpeg
+Depends: ${misc:Depends}, imx-boot-scripts, xserver-xorg-video-imx, libgles2-imx, libegl1-imx, gstreamer0.10-fsl-mm-plugins, gstreamer0.10-ffmpeg, libgst-fsl-plugin-egl0, gstreamer0.10-fsl-mm-plugin-egl
 Recommends: libopenvg1-imx, libgles1-imx
 Description: Genesi extras for i.MX5-based systems (Efika MX).
 
